@@ -1,13 +1,28 @@
-# 👻 Responsive 404 Page
-## [Watch it on youtube](https://youtu.be/WG2l4ER3_Qc)
-### 👻 Responsive 404 Page
+# 404 Error Page - XCOMPANY 🚀
 
-- Responsive 404 Page Using HTML CSS & JavaScript
-- Contains CSS animations.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A modern, responsive 404 error page designed for **XCOMPANY**. This page ensures a smooth user experience when navigating to a non-existent route, with a clean and animated interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+## 🔗 Live Demo
+👉 [View the 404 Page](https://jolly-cactus-1921a8.netlify.app)
 
-![preview img](/preview.png)
-# 404-page
+## 📸 Page Previews
+### 📱 Mobile View
+![Mobile Preview](assets/img/mobile.png) 
+
+### 💻 Desktop View
+![Desktop Preview](assets/img/desktop.png) *(Replace with actual image link)*
+
+## ✨ Features
+- Fully responsive design
+- Smooth animations
+- Simple and modern UI
+- Optimized for fast loading
+- Accessible and user-friendly
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **ScrollReveal.js (for animations)**
+
+
